@@ -6,7 +6,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium import webdriver
 
 url = "https://vk.com"
-post_text = "Изучаю Python, Selenium и автоматизацию тестирования"
+post_text = "Какой-либо текст публикации"
 
 try:
     browser = webdriver.Chrome()
