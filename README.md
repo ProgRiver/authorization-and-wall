@@ -2,7 +2,7 @@
 
 Использовал для автоматизации Selenium 3.14.0
 
-config.user_email - выш email или телефон
+config.user_email - ваш email или телефон
 
 config.password - ваш пароль
 
