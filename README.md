@@ -2,8 +2,7 @@
 
 Использовал для автоматизации Selenium 3.14.0
 
-config.user_email - ваш email или телефон
-
-config.password - ваш пароль
+вместо config.user_email добавить ваш email или телефон (str)
+вместо config.password добавить ваш пароль (str)
 
 Проверьте селекторы перед запуском кода
