@@ -1,7 +1,8 @@
 ### Авторизация пользователя и размещение записи на стене.
 ___
 ![Python](https://img.shields.io/pypi/pyversions/pip?color=g&label=Python%20version&style=plastic)
-![pip](https://img.shields.io/pypi/v/pip?style=plastic)
+
+![stars](https://img.shields.io/github/stars/ProgRiver/authorization-and-wall?style=social)
 ___
 Установить `Python` можно на официальном [сайте](https://www.python.org/downloads/).
 ___
